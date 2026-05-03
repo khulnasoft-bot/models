@@ -1,0 +1,6 @@
+{
+  "name": "ModelBench AI",
+  "description": "A high-performance benchmark dashboard for AI models, providing dense comparison data, latency metrics, and detailed capability breakdowns across providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
